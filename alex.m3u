@@ -1,5 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:-1,PT 24 KITCHEN HD
+http://supersonictv.live:8080/Buick123/Buick123/7586
